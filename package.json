@@ -14,6 +14,6 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/asapweb_appointments/qm-server#readme",
   "dependencies": {
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   }
 }
